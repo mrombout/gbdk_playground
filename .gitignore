@@ -1,5 +1,8 @@
 *.c~
 *.un~
+*.lst
+*.o
+*.sym
 
 # Binaries
 *.gb
