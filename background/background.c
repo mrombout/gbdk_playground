@@ -4,7 +4,7 @@
 #include "bg_data.map"
 
 void main() {
-    set_bkg_data(0, 255, tiledata);
+    set_bkg_data(0, 131, tiledata);
 
     VBK_REG = 1;
     VBK_REG = 0;
