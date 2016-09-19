@@ -1,5 +1,35 @@
+
+
+
+
 # Blank
+<div style="text-align: center"><img src="screenshot.png" alt="" /></div>
 
-![](screenshot.png)
+This example contains the minimal amount of code needed to create a working
+Game Boy game. Though not a very exciting one.
 
-Minimal source code needed to make a running Game Boy ROM.
+## Source
+
+
+
+
+
+
+
+
+All a GBDK game needs to compile and run (any C-program, in fact) is a main
+function. This is the entry point into your program.
+
+
+  
+
+```c
+void main() {
+
+}
+
+
+```
+
+
+
