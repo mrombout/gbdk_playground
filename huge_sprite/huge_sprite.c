@@ -27,7 +27,8 @@ void render_huge_sprite() {
 }
 
 void load_background() {
-	set_bkg_data(0, 1, bg_tile_data);
+	set_bkg_data(0, 2, bg_tile_data);
+	set_bkg_tiles(0, 0, 20, 18, bg_map_data); 
 }
 
 void move_huge_sprite(UINT8 nx, UINT8 ny) {
