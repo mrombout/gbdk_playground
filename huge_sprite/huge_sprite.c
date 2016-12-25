@@ -72,6 +72,7 @@ void main() {
 	SHOW_BKG;
 
 	while(1) {
+		wait_vbl_done();
 		if(joypad() & J_RIGHT) {
 			move_right();
 		}
