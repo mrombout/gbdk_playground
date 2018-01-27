@@ -23,7 +23,7 @@ It has 16 kB of RAM, man.
 | ![](window/screenshot.png) | ![](beep/screenshot.png) | ![](simple_shmup/screenshot.png) | 
 Renders a window             | Make a sound             | Very simple SHMUP                | 
 
-| [Huge Sprite](huge_sprite)      | More coming soon...                |
-|:-------------------------------:|:----------------------------------:|
-| ![](huge_sprite/screenshot.png) | ![](docs/res/more_coming_soon.png) |
-| Renders a huge 40x64 sprite     | Contributions are welcome!         |
+| [Huge Sprite](huge_sprite)      | [Drawing] (drawing)             | More coming soon...                |
+|:-------------------------------:|:-------------------------------:|:----------------------------------:|
+| ![](huge_sprite/screenshot.png) | ![](drawing/screenshot.png)     | ![](docs/res/more_coming_soon.png) |
+| Renders a huge 40x64 sprite     | Built-in drawing functions      | Contributions are welcome!         |
