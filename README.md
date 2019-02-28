@@ -23,7 +23,7 @@ It has 16 kB of RAM, man.
 | ![](window/screenshot.png) | ![](beep/screenshot.png) | ![](simple_shmup/screenshot.png) | 
 Renders a window             | Make a sound             | Very simple SHMUP                | 
 
-| [Huge Sprite](huge_sprite)      | [Drawing] (drawing)             | [Detect GB Type](detect_gb)        |
+| [Huge Sprite](huge_sprite)      | [Drawing](drawing)             | [Detect GB Type](detect_gb)        |
 |:-------------------------------:|:-------------------------------:|:----------------------------------:|
 | ![](huge_sprite/screenshot.png) | ![](drawing/screenshot.png)     | ![](detect_gb/screenshot.png)      |
 | Renders a huge 40x64 sprite     | Built-in drawing functions      | Detect which GB is being used      |
