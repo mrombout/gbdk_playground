@@ -15,7 +15,7 @@ void main() {
 		printf("COLOR");
 		break;
 	default:
-		printf("GBA or OTHER");
+		printf("OTHER");
 		break;
 	}
 }
