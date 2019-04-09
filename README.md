@@ -28,7 +28,12 @@ It has 16 kB of RAM, man.
 | ![](huge_sprite/screenshot.png) | ![](drawing/screenshot.png)     | ![](detect_gb/screenshot.png)      |
 | Renders a huge 40x64 sprite     | Built-in drawing functions      | Detect which GB is being used      |
 
-| [Save RAM](save_ram)            | [Font](font)                    | More coming soon...                |
+| [Save RAM](save_ram)            | [Font](font)                    | [Link](link)                       |
 |:-------------------------------:|:-------------------------------:|:----------------------------------:|
-| ![](save_ram/screenshot.png)    | ![](font/screenshot.png)        | ![](docs/res/more_coming_soon.png) |
-| Save/load variables             | Load a new font                 | Contributions are welcome!         |
+| ![](save_ram/screenshot.png)    | ![](font/screenshot.png)        | ![](link/screenshot.png)           |
+| Save/load variables             | Load a new font                 | Send/Receive data using link cable |
+
+| [Color](color)                  | More coming soon...                |
+|:-------------------------------:|:----------------------------------:|
+| ![](color/screenshot.png)       | ![](docs/res/more_coming_soon.png) |
+| Use palettes for Game Boy Color | Contributions are welcome!         |
