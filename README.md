@@ -5,8 +5,7 @@ It has 16 kB of RAM, man.
 ## Samples
 | [Blank](blank)            | [Hello World](hello_world)      | [Small Sprite](small_sprite)     |
 |:-------------------------:|:-------------------------------:|:--------------------------------:|
-|[![](blank/screenshot.png)]|[![](hello_world/screenshot.png)]|[![](small_sprite/screenshot.png)]|
-|(blank)                    |                                 |                                  |
+|[![](blank/screenshot.png)](blank) |[![](hello_world/screenshot.png)]|[![](small_sprite/screenshot.png)]|
 | Minimum required code     | Print `Hello World!`            | Render small 8x8 sprite          |
 
 | [Big Sprite](big_sprite)       | [Big Sprite Animation](big_sprite_animation) | [Input State](input_state)      |
