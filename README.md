@@ -20,7 +20,7 @@ It has 16 kB of RAM, man.
 
 | [Window](window)           | [Beep](beep)             | [Simple SHMUP](simple_shmup)     | 
 |:--------------------------:|:------------------------:|:--------------------------------:|
-|[![](window/screenshot.png)]](window)|[![](beep/screenshot.png)](beep)|[![](simple_shmup/screenshot.png)](simple_shmup)| 
+|[![](window/screenshot.png)](window)|[![](beep/screenshot.png)](beep)|[![](simple_shmup/screenshot.png)](simple_shmup)| 
 | Renders a window           | Make a sound             | Very simple SHMUP                | 
 
 | [Huge Sprite](huge_sprite)      | [Drawing](drawing)              | [Detect GB Type](detect_gb)        |
