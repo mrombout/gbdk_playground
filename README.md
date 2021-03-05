@@ -3,15 +3,15 @@
 It has 16 kB of RAM, man.
 
 ## Samples
-| [Blank](blank)            | [Hello World](hello_world)      | [Small Sprite](small_sprite)     |
-|:-------------------------:|:-------------------------------:|:--------------------------------:|
-|[![](blank/screenshot.png)](blank) |[![](hello_world/screenshot.png)](hello_world)|[![](small_sprite/screenshot.png)](small_sprite)|
-| Minimum required code     | Print `Hello World!`            | Render small 8x8 sprite          |
+| [Blank](blank)                    | [Hello World](hello_world)                    | [Small Sprite](small_sprite)                    |
+|:-------------------------:        |:-------------------------------:              |:--------------------------------:               |
+|[![](blank/screenshot.png)](blank) |[![](hello_world/screenshot.png)](hello_world) |[![](small_sprite/screenshot.png)](small_sprite) |
+| Minimum required code             | Print `Hello World!`                          | Render small 8x8 sprite                         |
 
-| [Big Sprite](big_sprite)       | [Big Sprite Animation](big_sprite_animation) | [Input State](input_state)      |
-|:------------------------------:|:--------------------------------------------:|:-------------------------------:|
+| [Big Sprite](big_sprite)                   | [Big Sprite Animation](big_sprite_animation) | [Input State](input_state)      |
+|:------------------------------:            |:--------------------------------------------:|:-------------------------------:|
 |[![](big_sprite/screenshot.png)](big_sprite)|[![](big_sprite_animation/screenshot.gif)](big_sprite_animation)    |[![](input_state/screenshot.png)](input_state)|
-| Render big 16x16 sprite        | Animate big 16x16 sprite                     | Read joypad state               |
+| Render big 16x16 sprite                    | Animate big 16x16 sprite                     | Read joypad state               |
 
 | [Input Wait](input_wait)       | [Move Sprite](move_sprite)      | [Background](background)        |
 |:------------------------------:|:-------------------------------:|:-------------------------------:|
@@ -35,5 +35,5 @@ It has 16 kB of RAM, man.
 
 | [Color](color)                  | More coming soon...                |
 |:-------------------------------:|:----------------------------------:|
-|[![](color/screenshot.png)](color)      |[![](docs/res/more_coming_soon.png)]|
+|[![](color/screenshot.png)](color)      |[![](docs/res/more_coming_soon.png)](https://gbdev.io/list.html#c)|
 | Use palettes for Game Boy Color | Contributions are welcome!         |
