@@ -1,6 +1,6 @@
 #include <stdio.h> 
 #include <gb/gb.h>
-#include <gb/font.h>
+#include <gbdk/font.h>
 
 void main() {
 	font_init(); // Initialize font
