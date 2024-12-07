@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <gb/gb.h>
 
-void main() {
+void main(void) {
     while(1) {
         switch(joypad()) {
             case J_LEFT:

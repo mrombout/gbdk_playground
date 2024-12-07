@@ -1,5 +1,5 @@
 #include <gb/gb.h>
-#include "cards.c"
+#include "cards.h"
 
 void main() {
     SPRITES_8x16;

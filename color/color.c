@@ -3,7 +3,7 @@
 
 // Background taken from 'background' example
 #include "bg_data.c"
-#include "bg_data.map"
+#include "bg_data_map.c"
 
 // Sprite taken from 'small_sprite' example
 const unsigned char sprite[] =

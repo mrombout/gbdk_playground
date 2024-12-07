@@ -15,12 +15,12 @@
 #define SPR_HEIGHT 5
 #define TOTAL_SPR SPR_WIDTH * SPR_HEIGHT
 
-UINT8 x = 64;
-UINT8 y = 96;
+uint8_t x = 64;
+uint8_t y = 96;
 
 void render_huge_sprite() {
-	UINT8 i, j;
-	UINT8 sprite_index;
+	uint8_t i, j;
+	uint8_t sprite_index;
 
 	set_sprite_tile(0, 1);
 
@@ -38,8 +38,8 @@ void load_background() {
 	set_bkg_tiles(0, 0, 20, 18, bg_map_data); 
 }
 
-void move_huge_sprite(UINT8 nx, UINT8 ny) {
-	UINT8 i, lx, ly;
+void move_huge_sprite(uint8_t nx, uint8_t ny) {
+	uint8_t i, lx, ly;
 	lx = 0;
 	ly = 0;
 	for(i = 0; i < 40; i++) {
