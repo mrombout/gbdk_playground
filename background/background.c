@@ -8,7 +8,7 @@
 #include <gb/gb.h>
 
 #include "bg_data.c"
-#include "bg_data.map"
+#include "bg_data_map.c"
 
 void main() {
 // First load the tile patterns in the Background Tile Pattern table. This
