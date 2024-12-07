@@ -2,6 +2,10 @@
 
 It has 16 kB of RAM, man.
 
+## Build Requirements
+
+Make sure to set the `GBDKDIR` environment variable pointing to your GBDK installation directory. The Makefile relies on this variable to locate the GBDK compiler and tools.
+
 ## Samples
 |           [Blank](blank)           |           [Hello World](hello_world)           |           [Small Sprite](small_sprite)           |
 | :--------------------------------: | :--------------------------------------------: | :----------------------------------------------: |
