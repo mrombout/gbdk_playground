@@ -3,6 +3,10 @@
 *.lst
 *.o
 *.sym
+*.asm 
+*.ihx 
+*.map 
+*.noi
 
 # Binaries
 *.gb
