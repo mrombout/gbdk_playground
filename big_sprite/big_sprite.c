@@ -11,7 +11,7 @@
 // The `sprite.c` file defines the sprite data in the form of an unsigned char
 // array. Most of the time you want to generate this file using tools such as
 // GBTD.
-#include "sprite.c"
+#include "sprite.h"
 
 void main() {
 // Set the sprite size to 8x16 pixels, two tiles one above the other. Internally

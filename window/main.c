@@ -1,7 +1,7 @@
 #include <gb/gb.h>
 
 #include "bg.c"
-#include "bg.map"
+#include "bg_map.c"
 #include "border.c"
 #include "window.c"
 

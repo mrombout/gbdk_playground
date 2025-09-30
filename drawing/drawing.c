@@ -1,7 +1,7 @@
 #include <gb/gb.h>
 #include <gb/drawing.h>
 
-UINT8 x = 1, y = 1, i = 3, j, f;
+uint8_t x = 1, y = 1, i = 3, j, f;
 
 void main() {
 	color(BLACK, WHITE, SOLID); //  forecolor, backcolor, mode [Colors: WHITE (0), LTGREY (1), DKGREY(2), BLACK (3)]

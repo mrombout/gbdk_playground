@@ -1,5 +1,5 @@
 #include <gb/gb.h>
-#include "ufo.c"
+#include "ufo.h"
 
 void main() {
     int x = 55;

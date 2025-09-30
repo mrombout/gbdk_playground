@@ -1,17 +1,14 @@
-AS = lcc -c
-CC = lcc -Wa-l -Wl-m
+LCC = $(GBDKDIR)bin/lcc
+AS  = $(LCC) -c
+CC  = $(LCC) -Wa-l -Wl-m
 
 BIN = move_sprite.gb
 OBJS = move_sprite.o ufo.o
 
 all: $(BIN)
 
-%.s: %.ms
-	maccer -o $@ $<
-
 $(BIN): $(OBJS)
 	$(CC) -o $(BIN) $(OBJS)
 
 clean:
-	rm -rf $(BIN) $(OBJS) *~
-
+	rm -f *.o *.lst *.sym *.asm *.gb *.ihx *.noi *.map

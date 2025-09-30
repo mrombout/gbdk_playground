@@ -1,6 +1,7 @@
 #include <gb/gb.h>
+#include <gb/cgb.h>
 #include "bg_title.c"
-#include "bg_title.map"
+#include "bg_title_map.c"
 #include "bg_tile.c"
 #include "spr_tiles.c"
 

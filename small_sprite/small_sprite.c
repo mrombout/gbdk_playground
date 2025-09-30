@@ -1,5 +1,5 @@
 #include <gb/gb.h>
-#include "sprite.c"
+#include "sprite.h"
 
 void main() {
     SPRITES_8x8;

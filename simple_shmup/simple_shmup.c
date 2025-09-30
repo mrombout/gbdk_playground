@@ -24,7 +24,7 @@ void load_game_tiles(void);
 fixed seed;
 
 // main
-void main() {
+void main(void) {
     seed.b.l = DIV_REG;
 
     SWITCH_ROM_MBC1(3);
